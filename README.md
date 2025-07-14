@@ -1,6 +1,10 @@
 # HMM + Viterbi Tabanlı Türkçe POS-Tagger
 
 **Okul Projesi** — 1600 cümlelik dataset, Stanza ile etiketleme, temiz/modüler Python kodu
+<br>*Kasım Deliacı*
+<br>*Enes Şevki Dönmez*
+<br>*Eren Özer*
+<br>*Yasin Ekici*
 
 ## 📋 Proje Hakkında
 
